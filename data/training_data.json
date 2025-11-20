@@ -1,0 +1,422 @@
+[
+  {
+    "cpu": 23.56,
+    "memory": 47.41,
+    "connections": 58,
+    "bytes_sent": 2850991,
+    "bytes_recv": 2923447
+  },
+  {
+    "cpu": 10.03,
+    "memory": 54.98,
+    "connections": 55,
+    "bytes_sent": 2391520,
+    "bytes_recv": 3069530
+  },
+  {
+    "cpu": 27.32,
+    "memory": 67.45,
+    "connections": 69,
+    "bytes_sent": 2555253,
+    "bytes_recv": 2557007
+  },
+  {
+    "cpu": 14.85,
+    "memory": 53.7,
+    "connections": 79,
+    "bytes_sent": 2520828,
+    "bytes_recv": 2936206
+  },
+  {
+    "cpu": 30.32,
+    "memory": 28.2,
+    "connections": 55,
+    "bytes_sent": 2745181,
+    "bytes_recv": 3524042
+  },
+  {
+    "cpu": 22.59,
+    "memory": 55.65,
+    "connections": 63,
+    "bytes_sent": 2891163,
+    "bytes_recv": 2332066
+  },
+  {
+    "cpu": 30.68,
+    "memory": 27.28,
+    "connections": 20,
+    "bytes_sent": 2196554,
+    "bytes_recv": 2450513
+  },
+  {
+    "cpu": 33.76,
+    "memory": 59.96,
+    "connections": 41,
+    "bytes_sent": 2923680,
+    "bytes_recv": 2398678
+  },
+  {
+    "cpu": 24.14,
+    "memory": 45.59,
+    "connections": 61,
+    "bytes_sent": 2909318,
+    "bytes_recv": 3383048
+  },
+  {
+    "cpu": 28.5,
+    "memory": 59.75,
+    "connections": 67,
+    "bytes_sent": 2186507,
+    "bytes_recv": 2569577
+  },
+  {
+    "cpu": 20.3,
+    "memory": 57.49,
+    "connections": 56,
+    "bytes_sent": 3667877,
+    "bytes_recv": 2508424
+  },
+  {
+    "cpu": 14.01,
+    "memory": 61.53,
+    "connections": 81,
+    "bytes_sent": 2752846,
+    "bytes_recv": 3501490
+  },
+  {
+    "cpu": 39.26,
+    "memory": 48.59,
+    "connections": 38,
+    "bytes_sent": 2233961,
+    "bytes_recv": 3571737
+  },
+  {
+    "cpu": 10.56,
+    "memory": 50.5,
+    "connections": 63,
+    "bytes_sent": 2342203,
+    "bytes_recv": 3434179
+  },
+  {
+    "cpu": 30.81,
+    "memory": 84.82,
+    "connections": 69,
+    "bytes_sent": 2195298,
+    "bytes_recv": 2662921
+  },
+  {
+    "cpu": 16.68,
+    "memory": 64.28,
+    "connections": 51,
+    "bytes_sent": 2464869,
+    "bytes_recv": 3449581
+  },
+  {
+    "cpu": 17.77,
+    "memory": 45.6,
+    "connections": 32,
+    "bytes_sent": 1958760,
+    "bytes_recv": 2659358
+  },
+  {
+    "cpu": 29.16,
+    "memory": 67.9,
+    "connections": 59,
+    "bytes_sent": 2630682,
+    "bytes_recv": 3100781
+  },
+  {
+    "cpu": 35.85,
+    "memory": 63.4,
+    "connections": 64,
+    "bytes_sent": 1994527,
+    "bytes_recv": 3542031
+  },
+  {
+    "cpu": 28.81,
+    "memory": 68.4,
+    "connections": 59,
+    "bytes_sent": 3476550,
+    "bytes_recv": 2784674
+  },
+  {
+    "cpu": 40.93,
+    "memory": 51.73,
+    "connections": 52,
+    "bytes_sent": 1935776,
+    "bytes_recv": 2909381
+  },
+  {
+    "cpu": 39.23,
+    "memory": 62.25,
+    "connections": 70,
+    "bytes_sent": 1312063,
+    "bytes_recv": 3426578
+  },
+  {
+    "cpu": 30.56,
+    "memory": 41.75,
+    "connections": 50,
+    "bytes_sent": 2498844,
+    "bytes_recv": 4034925
+  },
+  {
+    "cpu": 14.45,
+    "memory": 43.58,
+    "connections": 80,
+    "bytes_sent": 2276924,
+    "bytes_recv": 2781449
+  },
+  {
+    "cpu": 25.98,
+    "memory": 31.38,
+    "connections": 63,
+    "bytes_sent": 1895191,
+    "bytes_recv": 3531118
+  },
+  {
+    "cpu": 25.03,
+    "memory": 84.25,
+    "connections": 64,
+    "bytes_sent": 3182844,
+    "bytes_recv": 2218041
+  },
+  {
+    "cpu": 23.78,
+    "memory": 54.85,
+    "connections": 86,
+    "bytes_sent": 1659542,
+    "bytes_recv": 3594371
+  },
+  {
+    "cpu": 30.91,
+    "memory": 73.0,
+    "connections": 70,
+    "bytes_sent": 2526035,
+    "bytes_recv": 2687010
+  },
+  {
+    "cpu": 12.52,
+    "memory": 52.93,
+    "connections": 57,
+    "bytes_sent": 3510133,
+    "bytes_recv": 2633385
+  },
+  {
+    "cpu": 28.2,
+    "memory": 26.46,
+    "connections": 54,
+    "bytes_sent": 2630573,
+    "bytes_recv": 3494376
+  },
+  {
+    "cpu": 39.48,
+    "memory": 49.34,
+    "connections": 43,
+    "bytes_sent": 2728925,
+    "bytes_recv": 3310192
+  },
+  {
+    "cpu": 29.92,
+    "memory": 39.5,
+    "connections": 77,
+    "bytes_sent": 2543947,
+    "bytes_recv": 3419894
+  },
+  {
+    "cpu": 37.74,
+    "memory": 59.14,
+    "connections": 64,
+    "bytes_sent": 3576397,
+    "bytes_recv": 3146221
+  },
+  {
+    "cpu": 22.04,
+    "memory": 51.68,
+    "connections": 82,
+    "bytes_sent": 2559356,
+    "bytes_recv": 3311626
+  },
+  {
+    "cpu": 36.96,
+    "memory": 42.31,
+    "connections": 34,
+    "bytes_sent": 2649711,
+    "bytes_recv": 3137840
+  },
+  {
+    "cpu": 18.92,
+    "memory": 63.07,
+    "connections": 69,
+    "bytes_sent": 2002503,
+    "bytes_recv": 3310931
+  },
+  {
+    "cpu": 23.04,
+    "memory": 27.75,
+    "connections": 66,
+    "bytes_sent": 2477392,
+    "bytes_recv": 2552830
+  },
+  {
+    "cpu": 30.23,
+    "memory": 57.32,
+    "connections": 51,
+    "bytes_sent": 2700176,
+    "bytes_recv": 3609038
+  },
+  {
+    "cpu": 17.87,
+    "memory": 55.71,
+    "connections": 60,
+    "bytes_sent": 3633005,
+    "bytes_recv": 1882618
+  },
+  {
+    "cpu": 31.95,
+    "memory": 45.41,
+    "connections": 58,
+    "bytes_sent": 3450794,
+    "bytes_recv": 2994856
+  },
+  {
+    "cpu": 47.41,
+    "memory": 43.37,
+    "connections": 65,
+    "bytes_sent": 2254576,
+    "bytes_recv": 2585587
+  },
+  {
+    "cpu": 25.62,
+    "memory": 45.76,
+    "connections": 63,
+    "bytes_sent": 1447486,
+    "bytes_recv": 4201480
+  },
+  {
+    "cpu": 23.33,
+    "memory": 76.14,
+    "connections": 44,
+    "bytes_sent": 2646267,
+    "bytes_recv": 4898965
+  },
+  {
+    "cpu": 16.3,
+    "memory": 27.57,
+    "connections": 51,
+    "bytes_sent": 2736244,
+    "bytes_recv": 3416004
+  },
+  {
+    "cpu": 37.9,
+    "memory": 46.14,
+    "connections": 35,
+    "bytes_sent": 2282485,
+    "bytes_recv": 3744133
+  },
+  {
+    "cpu": 29.66,
+    "memory": 20.65,
+    "connections": 59,
+    "bytes_sent": 3199084,
+    "bytes_recv": 4275928
+  },
+  {
+    "cpu": 30.62,
+    "memory": 54.64,
+    "connections": 41,
+    "bytes_sent": 2078378,
+    "bytes_recv": 3028149
+  },
+  {
+    "cpu": 30.03,
+    "memory": 58.7,
+    "connections": 52,
+    "bytes_sent": 1924028,
+    "bytes_recv": 2533330
+  },
+  {
+    "cpu": 13.43,
+    "memory": 59.65,
+    "connections": 25,
+    "bytes_sent": 2333360,
+    "bytes_recv": 3269926
+  },
+  {
+    "cpu": 40.22,
+    "memory": 51.07,
+    "connections": 75,
+    "bytes_sent": 2300497,
+    "bytes_recv": 2553357
+  },
+  {
+    "cpu": 18.26,
+    "memory": 72.91,
+    "connections": 74,
+    "bytes_sent": 2743698,
+    "bytes_recv": 4998161
+  },
+  {
+    "cpu": 24.68,
+    "memory": 59.31,
+    "connections": 64,
+    "bytes_sent": 2389057,
+    "bytes_recv": 4389702
+  },
+  {
+    "cpu": 40.07,
+    "memory": 29.01,
+    "connections": 54,
+    "bytes_sent": 2714168,
+    "bytes_recv": 3469909
+  },
+  {
+    "cpu": 11.52,
+    "memory": 16.17,
+    "connections": 31,
+    "bytes_sent": 2464444,
+    "bytes_recv": 2938078
+  },
+  {
+    "cpu": 28.45,
+    "memory": 38.45,
+    "connections": 41,
+    "bytes_sent": 1488477,
+    "bytes_recv": 3197512
+  },
+  {
+    "cpu": 28.7,
+    "memory": 64.89,
+    "connections": 71,
+    "bytes_sent": 2404642,
+    "bytes_recv": 3809556
+  },
+  {
+    "cpu": 23.64,
+    "memory": 40.09,
+    "connections": 52,
+    "bytes_sent": 2207594,
+    "bytes_recv": 1700557
+  },
+  {
+    "cpu": 26.56,
+    "memory": 53.75,
+    "connections": 54,
+    "bytes_sent": 2143079,
+    "bytes_recv": 3223082
+  },
+  {
+    "cpu": 42.17,
+    "memory": 50.57,
+    "connections": 52,
+    "bytes_sent": 2204276,
+    "bytes_recv": 2958146
+  },
+  {
+    "cpu": 12.35,
+    "memory": 48.12,
+    "connections": 60,
+    "bytes_sent": 3422339,
+    "bytes_recv": 3566084
+  }
+]
